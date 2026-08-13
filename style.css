@@ -1,0 +1,24 @@
+header{
+    background-color: rgb(148, 147, 144);
+    color: rgb(23, 23, 24);
+    text-align: center;
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 16px;
+} 
+max-width: 880px;
+    margin: 0 auto;
+    padding: 16px;
+}
+main{
+    background-color: rgb(110, 110, 110);
+    color: rgb(245, 241, 241);
+main{
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 16px;  
+}    
+   article{
+    display: flex;
+   } 
+}
